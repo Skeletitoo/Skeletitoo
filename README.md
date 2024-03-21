@@ -8,3 +8,7 @@ Hola solo quiero aprender a usar git xd
 ## Contact me
 
 Llama grita si me necesitas
+
+## Hobbies 
+
+Viva el lol, escribir, dibujar
