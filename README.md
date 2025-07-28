@@ -1,4 +1,4 @@
-# Hola, aprendo a usar Git ;/
+# Hola, aprendo a programar ;/
 
 ## Sobre mí
 
